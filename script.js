@@ -4,7 +4,7 @@
   without +, spaces or punctuation.
   Example for an Indian number: 919876543210
 */
-const SELLER_WHATSAPP = "919999999999";
+const SELLER_WHATSAPP = "917540092864";
 
 document.getElementById("sendBtn").addEventListener("click", () => {
   const name = document.getElementById("name").value.trim();
